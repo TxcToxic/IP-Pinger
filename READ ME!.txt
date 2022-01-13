@@ -1,0 +1,1 @@
+This project is open beta, use it for whatever you want, I'm not screwed if you screw up. at the bottom you have to change the ip to ping an ip!!!
